@@ -4,5 +4,3 @@ inicialmente html
 
 
 
-
-link https://jhonietrader-beep.github.io/projeto-front-end/
